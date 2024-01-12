@@ -1,0 +1,2 @@
+# qrCodeGenerator
+PetProject in JavaScript
